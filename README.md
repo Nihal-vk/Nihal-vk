@@ -2,7 +2,7 @@
 <img align="center" alt="developer" width="100%" height="20%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
-<h1 align="center">Hi 👋, I'm Nihal NouahD vk</h1>
+<h1 align="center">Hi 👋, I'm Nihal Noushad vk</h1>
 <h4 align="center">A self-oriented aspiring full-stack web developer specialising in MERN stack. Also self-motivated and eager to learn new things, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging and growth-oriented work environment.</h4>
 
 
